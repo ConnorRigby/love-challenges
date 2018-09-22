@@ -1,2 +1,2 @@
 @echo off
-"C:\Program Files\LOVE\love.exe" --console barnsley-fern
+"C:\Program Files\LOVE\love.exe" --console fractal-spirograph
