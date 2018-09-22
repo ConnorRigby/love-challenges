@@ -1,2 +1,2 @@
 @echo off
-"C:\Program Files\LOVE\love.exe" --console fractal-spirograph
+"C:\Program Files\LOVE\love.exe" --console flappy-bird
