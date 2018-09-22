@@ -1,2 +1,2 @@
 @echo off
-"C:\Program Files\LOVE\love.exe" --console flappy-bird
+"C:\Program Files\LOVE\love.exe" --console pi
